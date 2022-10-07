@@ -6,9 +6,6 @@ html {
 ::after {
   box-sizing: inherit;
 }
-
-/*The img element needs its parent to have a position set as a point of reference. So i've set the position of the #piano selector to relative.*/
-
 #piano {
   background-color: #00471b;
   width: 992px;
